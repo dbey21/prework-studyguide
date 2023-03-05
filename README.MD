@@ -10,10 +10,6 @@
 
 -I learned how to create a CSS file, how to impelement basic JavaScript to my webpage, I learned how to call and write a function, how to incorporate Arrays and for loops and much more.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
 
 ## Installation
